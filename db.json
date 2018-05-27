@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "title": "Read articles",
+      "complete": false,
+      "id": 1
+    },
+    {
+      "title": "Clean inbox",
+      "complete": false,
+      "id": 2
+    },
+    {
+      "title": "Walk with a dog",
+      "complete": false,
+      "id": 3
+    }
+  ]
+}
